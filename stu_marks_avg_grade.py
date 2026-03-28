@@ -1,4 +1,3 @@
-# taking marks of students grading , average 
 
 def get_marks():
     marks=[]
