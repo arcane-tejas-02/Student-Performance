@@ -118,7 +118,7 @@ python stu_maks_avg_grad.py
 004_student_performance/
 │
 ├── 001input.py
-├── stu_maks_avg_grad.py
+├── stu_marks_avg_grade.py
 ├── README.md
 └── .gitignore
 ```
